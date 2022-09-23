@@ -112,11 +112,6 @@ div{
     margin-left: 510px;
 }
 
-.container-word{
-    margin-bottom: 20px;
-    text-align: center;
-    margin-top: 100px;
-}
 
 .container-image{
     text-align: center;
@@ -131,6 +126,10 @@ div{
     color: yellow;
     text-decoration: underline;
 
+}
+.coli{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 
