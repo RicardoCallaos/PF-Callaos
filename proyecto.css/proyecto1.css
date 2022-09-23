@@ -134,7 +134,7 @@ div{
 }
 
 
-      a {
+a {
     
         background-color: rgb(124, 5, 104);
      padding-left: 1.5rem/* 8px */;
@@ -152,6 +152,7 @@ div{
       a:hover {
         background-color: gold;
         border-radius: 10%;
+
 
 
 
