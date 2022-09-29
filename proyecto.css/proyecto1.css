@@ -79,10 +79,7 @@ h3{
     border-radius: 10%;
   } */
 
-.margin{
-    
-    marker: none;
-}
+
 div{
     color: aliceblue;
 }
@@ -135,7 +132,7 @@ div{
 
 }
 
-.button:hover{
+/* .button:hover{
     background-color: gold;
     transform: scale(1.5);
     transition: all .7s;
@@ -143,25 +140,16 @@ div{
     margin-left: 2px;
     margin-right: 2px;
     
-}
+} */
 
 .coli{
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 
-.centerT {
-    text-align: center;
-    margin-right: 25px;
-    margin-top: 50px;
-}
 
-@media (min-widht: 768px) {
-    .center{
-        display: none;
-    }
-    
-}
+
+
 
 
 
