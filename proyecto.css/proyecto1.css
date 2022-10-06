@@ -1,33 +1,30 @@
-/* selector {
-    propiedad: valor;
- } */
- 
+
 body{background-image: url(../img/fondo.jpg);
 }
 
 
 
-.imgb{
+.imgb{ /* check */
     margin-top: 8px;
     margin-left: 8px;
+    
 }
- img{
+
+img{ /* check */
     background: radial-gradient(rgb(26, 196, 199), rgb(214, 222, 226));
     border: 3px solid rgb(79, 187, 187)
  }
 
 
-.pce{
+.pce{ /* check */
 margin-top: 20px;
 font-family: 'Times New Roman', Times, serif;
 margin-left: 8px;
+color: white;
 }
 
-h1{
-    color: white;
-}
 
-.subtitle{
+.subtitle{ /* check */
     margin-top: 50px;
     text-decoration: underline;
     color: rgb(255, 255, 255);
@@ -35,117 +32,58 @@ h1{
     font-family: 'Times New Roman', Times, serif;
 }
 
-
-h3{
-    color: white;
-    text-align: center;
+.textoColor{ /* check */
+    color: yellow;
 }
 
-.center{
-    text-align: center;
-    margin-right: 25px;
-   
-}
 
-/* nav li a{
-    text-decoration: none;
-    color: white;
-    
-} */
-
-.navi a{
-    text-decoration: none;
-    color: white;
-    
-    margin: 20px;
-    padding: 0px;
-    
-    
-    background-color: rgb(124, 5, 104);
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    border-radius: 0.375rem;
-    margin-top: 1rem;
-
-    
-    transition: background-color .5s;
-    
-  }
-  
-  /* .navi:hover {
-    background-color: gold;
-    border-radius: 10%;
-  } */
-
-
-div{
+div{ /* check */
     color: aliceblue;
 }
 
-.textoColor{
-    color: yellow;
-}
-
-.pcGamer{
-    color: yellow;
-}
-
-
-
-.footer{
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-    text-align: center;
-    margin-top: 700px;
-}
-
-.noFooter {
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
-    text-align: center;  
-}
-
-.maps{
+.maps{ /* check */
     margin-left: 250px;
     margin-top: 700px;
 }
 
-.pikachu{
+.pikachu{ /* check */
     margin-left: 510px;
 }
 
 
-.container-image{
+.container-image{ /* check */
     text-align: center;
 }
 
-.coli:hover{
+.coli:hover{ /* check */
     transform: scale(1.1);
     transition: all .7s;
 }
 
-.service:hover{
+.service:hover{ /* check */
     color: yellow;
     text-decoration: underline;
 
 }
 
-/* .button:hover{
-    background-color: gold;
-    transform: scale(1.5);
-    transition: all .7s;
-    border-radius: 0.375rem;
-    margin-left: 2px;
-    margin-right: 2px;
-    
-} */
-
-.coli{
+.coli{ /* check */
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+
+.footer{ /* check */
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    margin-top: 700px;
+}   
+
+.footerv{ /* check */
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+}  
 
 
 
