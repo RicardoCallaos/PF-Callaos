@@ -1,7 +1,24 @@
 
-body{background-image: url(../img/background3.png);
-}
-
+body{   background:  linear-gradient(
+    to bottom,
+    hsl(324, 100%, 0.98%) 0%,
+    hsl(218.35, 60.22%, 5%) 8.1%,
+    hsl(212.96, 76.51%, 8.79%) 15.5%,
+    hsl(211.56, 82.47%, 12.42%) 22.5%,
+    hsl(210.95, 85.41%, 15.87%) 29%,
+    hsl(210.62, 87.1%, 19.11%) 35.3%,
+    hsl(210.41, 88.16%, 22.14%) 41.2%,
+    hsl(210.28, 88.86%, 24.94%) 47.1%,
+    hsl(210.19, 89.35%, 27.5%) 52.9%,
+    hsl(210.13, 89.69%, 29.79%) 58.8%,
+    hsl(210.09, 89.95%, 31.81%) 64.7%,
+    hsl(210.05, 90.13%, 33.53%) 71%,
+    hsl(210.03, 90.26%, 34.92%) 77.5%,
+    hsl(210.01, 90.35%, 35.97%) 84.5%,
+    hsl(210, 90.41%, 36.63%) 91.9%,
+    hsl(210, 90.43%, 36.86%) 100%
+  );
+};
 
 
 .imgb{ /* check */
@@ -230,19 +247,10 @@ div{ /* check */
     border-radius: 50px;
     text-align: center;
      font-size: 30px;
-    box-shadow: 0px 1px 10px rgba(e, 0 ,
+    box-shadow: 0px 1px 10px rgba(e, 0 ,);
     z-index: 100;
 }
 
-.b-example-divider{
-   
-    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
-    height: 3rem;
-    background-color: rgba(148,187,233,1);
-    border: solid rgba(238,174,202,1);
-    border-width: 1px 0;
-    box-shadow: inset 0 0.5em 1.5em rgb(0 0 0 / 10%), inset 0 0.125em 0.5em rgb(0 0 0 / 15%);
-}
 
 
 
